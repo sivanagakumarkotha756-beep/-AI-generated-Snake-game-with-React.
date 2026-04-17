@@ -1,0 +1,6 @@
+{
+  "name": "NEURO_SNAKE_OS",
+  "description": "Glitch-art OS simulating an entertainment sub-routine (Snake + generative audio playback).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
